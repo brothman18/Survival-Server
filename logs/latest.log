@@ -1,36 +1,67 @@
-[00:07:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-85, y=65, z=50} ja{x=-85, y=64, z=50}
-[00:07:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-84, y=64, z=50} ja{x=-83, y=62, z=50}
-[00:07:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-84, y=64, z=50} ja{x=-83, y=62, z=50}
-[00:07:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-84, y=64, z=50} ja{x=-83, y=62, z=50}
-[00:07:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-82, y=61, z=50} ja{x=-83, y=60, z=50}
-[00:07:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-82, y=61, z=50} ja{x=-83, y=60, z=50}
-[00:07:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-82, y=61, z=50} ja{x=-83, y=60, z=50}
-[00:07:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-82, y=61, z=50} ja{x=-81, y=59, z=50}
-[00:07:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-82, y=61, z=50} ja{x=-81, y=59, z=50}
-[00:07:14] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-81, y=60, z=50} ja{x=-80, y=58, z=50}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-81, y=61, z=50} ja{x=-79, y=57, z=50}
-[00:07:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-76, y=56, z=50} ja{x=-75, y=55, z=50}
-[00:07:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-76, y=56, z=50} ja{x=-75, y=55, z=50}
-[00:07:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-76, y=56, z=50} ja{x=-75, y=55, z=50}
-[00:07:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-76, y=56, z=50} ja{x=-75, y=55, z=50}
-[00:07:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-69, y=50, z=50} ja{x=-68, y=49, z=50}
-[00:07:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-69, y=50, z=50} ja{x=-68, y=49, z=50}
-[00:07:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-69, y=50, z=50} ja{x=-68, y=49, z=50}
-[00:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-65, y=49, z=50} ja{x=-66, y=48, z=50}
-[00:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-65, y=49, z=50} ja{x=-66, y=48, z=50}
-[00:07:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-40, y=52, z=50} ja{x=-42, y=52, z=50}
-[00:07:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-40, y=52, z=50} ja{x=-42, y=52, z=50}
-[00:07:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-40, y=52, z=50} ja{x=-42, y=52, z=50}
-[00:24:47] [Server thread/INFO]: Stopping the server
-[00:24:47] [Server thread/INFO]: Stopping server
-[00:24:47] [Server thread/INFO]: Saving players
-[00:24:47] [Server thread/INFO]: Charlie527 lost connection: Server closed
-[00:24:47] [Server thread/INFO]: Charlie527 left the game
-[00:24:47] [Server thread/INFO]: Saving worlds
-[00:24:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
-[00:24:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
-[00:24:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
-[00:24:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
-[00:24:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:24:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:24:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:22:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:22:48] [ServerMain/INFO]: Loaded 1461 recipes
+[20:22:48] [ServerMain/INFO]: Loaded 1574 advancements
+[20:22:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[20:22:48] [Server thread/INFO]: Loading properties
+[20:22:48] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:48] [Server thread/INFO]: Generating keypair
+[20:22:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:22:49] [Server thread/INFO]: Using default channel type
+[20:22:49] [Server thread/INFO]: Preparing level "Survival_Nov2025"
+[20:22:49] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:22:49] [Server thread/INFO]: Preparing spawn area: 100%
+[20:22:49] [Server thread/INFO]: Time elapsed: 48 ms
+[20:22:49] [Server thread/INFO]: Done (0.596s)! For help, type "help"
+[20:23:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:29:11] [User Authenticator #1/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
+[20:29:13] [Server thread/INFO]: Charlie527[/173.28.182.147:53493] logged in with entity id 94 at (72.741241707632, 106.0, -72.67532464036324)
+[20:29:13] [Server thread/INFO]: Charlie527 joined the game
+[20:30:05] [User Authenticator #2/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[20:30:06] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51143] logged in with entity id 453 at (77.12728087729914, 106.0, -76.83766998889097)
+[20:30:06] [Server thread/INFO]: BennyBoi04 joined the game
+[20:34:22] [Server thread/INFO]: <BennyBoi04> nether fortress -283 55 841
+[20:45:00] [Server thread/INFO]: Charlie527 was doomed to fall
+[20:45:19] [Server thread/INFO]: BennyBoi04 has completed the challenge [Return to Sender]
+[20:47:24] [Server thread/INFO]: Charlie527 was slain by Magma Cube
+[20:47:55] [Server thread/INFO]: BennyBoi04 has made the advancement [Suit Up]
+[20:48:31] [Server thread/INFO]: Charlie527 was shot by Skeleton
+[20:50:06] [Server thread/INFO]: BennyBoi04 withered away
+[20:52:51] [Server thread/INFO]: BennyBoi04 was doomed to fall
+[21:08:28] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[21:08:28] [Server thread/INFO]: BennyBoi04 left the game
+[21:09:46] [User Authenticator #3/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[21:09:46] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51754] logged in with entity id 11645 at (8.042041059890717, 78.0, 36.88217792397684)
+[21:09:46] [Server thread/INFO]: BennyBoi04 joined the game
+[21:14:26] [Server thread/INFO]: Charlie527 has made the advancement [A Terrible Fortress]
+[21:14:27] [Server thread/INFO]: BennyBoi04 has made the advancement [A Terrible Fortress]
+[21:17:16] [Server thread/INFO]: BennyBoi04 has made the advancement [Into Fire]
+[21:26:23] [Server thread/INFO]: BennyBoi04 has made the advancement [Spooky Scary Skeleton]
+[21:29:46] [Server thread/INFO]: BennyBoi04 was slain by Zombified Piglin
+[21:30:03] [Server thread/INFO]: Charlie527 was slain by Zombified Piglin
+[21:34:28] [Server thread/INFO]: Charlie527 has made the advancement [Spooky Scary Skeleton]
+[22:02:34] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[22:02:34] [Server thread/INFO]: BennyBoi04 left the game
+[22:02:37] [User Authenticator #4/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[22:02:38] [Server thread/INFO]: BennyBoi04[/127.0.0.1:52476] logged in with entity id 24163 at (376.24806919315375, -53.0, 78.43974686811836)
+[22:02:38] [Server thread/INFO]: BennyBoi04 joined the game
+[23:12:23] [Server thread/INFO]: Charlie527 has reached the goal [Hired Help]
+[23:12:23] [Server thread/INFO]: BennyBoi04 has reached the goal [Hired Help]
+[23:20:03] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[23:20:03] [Server thread/INFO]: BennyBoi04 left the game
+[23:21:16] [Server thread/INFO]: Charlie527 lost connection: Disconnected
+[23:21:16] [Server thread/INFO]: Charlie527 left the game
+[23:21:22] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[23:21:22] [Server thread/INFO]: STOP<--[HERE]
+[23:21:23] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[23:21:23] [Server thread/INFO]: stpo<--[HERE]
+[23:21:25] [Server thread/INFO]: Stopping the server
+[23:21:25] [Server thread/INFO]: Stopping server
+[23:21:25] [Server thread/INFO]: Saving players
+[23:21:25] [Server thread/INFO]: Saving worlds
+[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
+[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
+[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
+[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
+[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
