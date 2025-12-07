@@ -1,67 +1,121 @@
-[20:22:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:22:48] [ServerMain/INFO]: Loaded 1461 recipes
-[20:22:48] [ServerMain/INFO]: Loaded 1574 advancements
-[20:22:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[20:22:48] [Server thread/INFO]: Loading properties
-[20:22:48] [Server thread/INFO]: Default game type: SURVIVAL
-[20:22:48] [Server thread/INFO]: Generating keypair
-[20:22:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:22:49] [Server thread/INFO]: Using default channel type
-[20:22:49] [Server thread/INFO]: Preparing level "Survival_Nov2025"
-[20:22:49] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:22:49] [Server thread/INFO]: Preparing spawn area: 100%
-[20:22:49] [Server thread/INFO]: Time elapsed: 48 ms
-[20:22:49] [Server thread/INFO]: Done (0.596s)! For help, type "help"
-[20:23:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:29:11] [User Authenticator #1/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
-[20:29:13] [Server thread/INFO]: Charlie527[/173.28.182.147:53493] logged in with entity id 94 at (72.741241707632, 106.0, -72.67532464036324)
-[20:29:13] [Server thread/INFO]: Charlie527 joined the game
-[20:30:05] [User Authenticator #2/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
-[20:30:06] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51143] logged in with entity id 453 at (77.12728087729914, 106.0, -76.83766998889097)
-[20:30:06] [Server thread/INFO]: BennyBoi04 joined the game
-[20:34:22] [Server thread/INFO]: <BennyBoi04> nether fortress -283 55 841
-[20:45:00] [Server thread/INFO]: Charlie527 was doomed to fall
-[20:45:19] [Server thread/INFO]: BennyBoi04 has completed the challenge [Return to Sender]
-[20:47:24] [Server thread/INFO]: Charlie527 was slain by Magma Cube
-[20:47:55] [Server thread/INFO]: BennyBoi04 has made the advancement [Suit Up]
-[20:48:31] [Server thread/INFO]: Charlie527 was shot by Skeleton
-[20:50:06] [Server thread/INFO]: BennyBoi04 withered away
-[20:52:51] [Server thread/INFO]: BennyBoi04 was doomed to fall
-[21:08:28] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
-[21:08:28] [Server thread/INFO]: BennyBoi04 left the game
-[21:09:46] [User Authenticator #3/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
-[21:09:46] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51754] logged in with entity id 11645 at (8.042041059890717, 78.0, 36.88217792397684)
-[21:09:46] [Server thread/INFO]: BennyBoi04 joined the game
-[21:14:26] [Server thread/INFO]: Charlie527 has made the advancement [A Terrible Fortress]
-[21:14:27] [Server thread/INFO]: BennyBoi04 has made the advancement [A Terrible Fortress]
-[21:17:16] [Server thread/INFO]: BennyBoi04 has made the advancement [Into Fire]
-[21:26:23] [Server thread/INFO]: BennyBoi04 has made the advancement [Spooky Scary Skeleton]
-[21:29:46] [Server thread/INFO]: BennyBoi04 was slain by Zombified Piglin
-[21:30:03] [Server thread/INFO]: Charlie527 was slain by Zombified Piglin
-[21:34:28] [Server thread/INFO]: Charlie527 has made the advancement [Spooky Scary Skeleton]
-[22:02:34] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
-[22:02:34] [Server thread/INFO]: BennyBoi04 left the game
-[22:02:37] [User Authenticator #4/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
-[22:02:38] [Server thread/INFO]: BennyBoi04[/127.0.0.1:52476] logged in with entity id 24163 at (376.24806919315375, -53.0, 78.43974686811836)
-[22:02:38] [Server thread/INFO]: BennyBoi04 joined the game
-[23:12:23] [Server thread/INFO]: Charlie527 has reached the goal [Hired Help]
-[23:12:23] [Server thread/INFO]: BennyBoi04 has reached the goal [Hired Help]
-[23:20:03] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
-[23:20:03] [Server thread/INFO]: BennyBoi04 left the game
-[23:21:16] [Server thread/INFO]: Charlie527 lost connection: Disconnected
-[23:21:16] [Server thread/INFO]: Charlie527 left the game
-[23:21:22] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[23:21:22] [Server thread/INFO]: STOP<--[HERE]
-[23:21:23] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[23:21:23] [Server thread/INFO]: stpo<--[HERE]
-[23:21:25] [Server thread/INFO]: Stopping the server
-[23:21:25] [Server thread/INFO]: Stopping server
-[23:21:25] [Server thread/INFO]: Saving players
-[23:21:25] [Server thread/INFO]: Saving worlds
-[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
-[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
-[23:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
-[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
-[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:33:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:33:23] [ServerMain/INFO]: Loaded 1461 recipes
+[16:33:23] [ServerMain/INFO]: Loaded 1574 advancements
+[16:33:23] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:33:23] [Server thread/INFO]: Loading properties
+[16:33:23] [Server thread/INFO]: Default game type: SURVIVAL
+[16:33:23] [Server thread/INFO]: Generating keypair
+[16:33:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:33:24] [Server thread/INFO]: Using default channel type
+[16:33:24] [Server thread/INFO]: Preparing level "Survival_Nov2025"
+[16:33:24] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:33:24] [Server thread/INFO]: Preparing spawn area: 100%
+[16:33:24] [Server thread/INFO]: Time elapsed: 103 ms
+[16:33:24] [Server thread/INFO]: Done (0.481s)! For help, type "help"
+[16:34:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:35:14] [User Authenticator #1/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[16:35:16] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56082] logged in with entity id 135 at (699.248714381203, 63.0, -1871.4901358046288)
+[16:35:16] [Server thread/INFO]: BennyBoi04 joined the game
+[17:10:04] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[17:10:04] [Server thread/INFO]: BennyBoi04 left the game
+[17:11:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:11:26] [User Authenticator #2/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[17:11:26] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56634] logged in with entity id 9605 at (336.35297699148407, 68.17675927506424, -334.11020021765125)
+[17:11:26] [Server thread/INFO]: BennyBoi04 joined the game
+[18:32:08] [Netty Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) [server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) [server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) [server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) [server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) [server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) [server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) [server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) [server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
+[18:33:15] [Netty Server IO #12/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) [server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) [server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) [server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) [server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) [server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) [server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) [server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) [server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
+[20:08:03] [Server thread/INFO]: Villager cyx['Villager'/34220, l='ServerLevel[Survival_Nov2025]', x=338.11, y=66.24, z=-322.15] died, message: 'Villager was squished too much'
+[20:43:53] [Server thread/INFO]: Villager cyx['Villager'/49732, l='ServerLevel[Survival_Nov2025]', x=338.15, y=66.45, z=-322.13] died, message: 'Villager was squished too much'
+[20:53:27] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[20:53:27] [Server thread/INFO]: BennyBoi04 left the game
+[20:53:31] [Server thread/INFO]: Stopping the server
+[20:53:31] [Server thread/INFO]: Stopping server
+[20:53:31] [Server thread/INFO]: Saving players
+[20:53:31] [Server thread/INFO]: Saving worlds
+[20:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
+[20:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
+[20:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
+[20:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
+[20:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
