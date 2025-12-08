@@ -779,6 +779,7 @@
       "minecraft:cave_spider": "2025-11-14 21:03:27 -0500",
       "minecraft:piglin": "2025-12-01 23:18:43 -0500",
       "minecraft:enderman": "2025-11-23 21:31:51 -0500",
+      "minecraft:stray": "2025-12-07 21:28:40 -0500",
       "minecraft:magma_cube": "2025-12-01 23:11:35 -0500",
       "minecraft:spider": "2025-11-09 20:53:26 -0500",
       "minecraft:zombie": "2025-11-09 20:53:07 -0500",
@@ -3931,6 +3932,66 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-12-06 14:47:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-07 18:57:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-07 18:57:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-07 18:57:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-07 18:57:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-07 18:57:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-12-07 18:57:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-12-07 18:57:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-12-07 18:57:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-07 21:15:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-07 21:15:48 -0500"
     },
     "done": true
   },
