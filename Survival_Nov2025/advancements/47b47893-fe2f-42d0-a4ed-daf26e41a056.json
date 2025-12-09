@@ -324,11 +324,13 @@
       "cooked_porkchop": "2025-11-19 22:35:47 -0500",
       "mutton": "2025-11-19 22:26:50 -0500",
       "cooked_chicken": "2025-11-09 20:37:51 -0500",
+      "suspicious_stew": "2025-12-08 03:44:44 -0500",
       "cooked_mutton": "2025-11-09 20:54:59 -0500",
       "salmon": "2025-11-14 21:15:50 -0500",
       "cooked_beef": "2025-11-09 21:36:37 -0500",
       "beef": "2025-11-09 20:52:50 -0500",
-      "cooked_salmon": "2025-11-09 21:41:42 -0500"
+      "cooked_salmon": "2025-11-09 21:41:42 -0500",
+      "golden_carrot": "2025-12-08 03:45:19 -0500"
     },
     "done": false
   },
@@ -4253,6 +4255,108 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-12-08 00:03:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-08 22:54:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-12-08 22:19:29 -0500"
     },
     "done": true
   },

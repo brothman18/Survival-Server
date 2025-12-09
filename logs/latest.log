@@ -1,97 +1,38 @@
-[00:05:31] [Server thread/WARN]: BennyBoi04 moved too quickly! 8.632195395185818,0.8732674472226307,-16.0496304837759
-[00:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
-[00:05:51] [Server thread/WARN]: BennyBoi04 moved too quickly! -7.833387404746645,-1.5625627019919364,-16.35838575545972
-[00:18:24] [Server thread/WARN]: Charlie527 moved too quickly! 4.761283571829836,6.50168657157765,-16.51814100053855
-[00:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
-[00:18:24] [Server thread/WARN]: Charlie527 moved too quickly! 4.657064800588557,6.315605995233852,-16.152063035005654
-[00:18:35] [Server thread/WARN]: Charlie527 moved too quickly! 2.167222367563056,-2.0871924588173414,-17.936397133549008
-[00:18:50] [Server thread/WARN]: Charlie527 moved too quickly! 3.8506696822981326,-1.6245101280419618,-16.936909713896966
-[00:20:43] [Server thread/WARN]: BennyBoi04 moved too quickly! -0.9782409321594514,11.56967674765282,13.312203630476915
-[00:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
-[00:23:41] [Server thread/WARN]: BennyBoi04 moved too quickly! 1.9900331682979413,-1.0612187546458074,-18.41179622390507
-[00:25:53] [Server thread/WARN]: BennyBoi04 moved too quickly! -5.850983509217713,-2.5866961176427594,16.760272942754682
-[00:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
-[00:31:58] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=204, y=76, z=-435} ja{x=204, y=77, z=-434}
-[00:31:58] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=204, y=76, z=-435} ja{x=204, y=77, z=-434}
-[00:32:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=207, y=74, z=-429} ja{x=207, y=76, z=-430}
-[00:33:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=204, y=75, z=-433} ja{x=204, y=74, z=-433}
-[00:33:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=204, y=75, z=-433} ja{x=204, y=74, z=-433}
-[00:33:29] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=203, y=71, z=-433} ja{x=204, y=71, z=-435}
-[00:33:29] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=203, y=71, z=-433} ja{x=204, y=71, z=-435}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:33:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=214, y=73, z=-427} ja{x=214, y=71, z=-428}
-[00:34:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=213, y=71, z=-437} ja{x=212, y=71, z=-438}
-[00:34:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=213, y=71, z=-437} ja{x=212, y=71, z=-438}
-[00:34:51] [Server thread/WARN]: BennyBoi04 moved too quickly! 5.100383720017533,10.760422693482013,-14.06418323201683
-[00:49:57] [Server thread/INFO]: <Charlie527> 2
-[00:50:21] [Server thread/INFO]: <Charlie527> 3
-[00:50:41] [Server thread/INFO]: <Charlie527> 4
-[00:51:11] [Server thread/INFO]: <Charlie527> 5
-[00:51:35] [Server thread/INFO]: <Charlie527> 6
-[00:51:55] [Server thread/INFO]: <Charlie527> 7
-[00:52:12] [Server thread/INFO]: <Charlie527> 8
-[00:52:35] [Server thread/INFO]: <Charlie527> 9
-[00:52:54] [Server thread/INFO]: <Charlie527> 10
-[00:53:44] [Server thread/INFO]: <Charlie527> 11
-[00:54:04] [Server thread/INFO]: <Charlie527> 12
-[00:54:31] [Server thread/INFO]: <Charlie527> 13
-[01:16:01] [Server thread/WARN]: Charlie527 moved wrongly!
-[01:22:59] [Server thread/INFO]: BennyBoi04 hit the ground too hard
-[01:55:47] [Server thread/INFO]: Villager cyx['Villager'/123085, l='ServerLevel[Survival_Nov2025]', x=338.17, y=66.40, z=-322.17] died, message: 'Villager was squished too much'
-[01:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[01:57:01] [Server thread/WARN]: BennyBoi04 moved too quickly! -4.52785763108659,-2.87397509658976,16.767429921456028
-[02:11:54] [Server thread/INFO]: Villager cyx['Villager'/123058, l='ServerLevel[Survival_Nov2025]', x=338.26, y=66.00, z=-322.70] died, message: 'Villager was squished too much'
-[02:12:00] [Server thread/INFO]: Villager cyx['Villager'/123090, l='ServerLevel[Survival_Nov2025]', x=338.21, y=66.48, z=-322.13] died, message: 'Villager was squished too much'
-[02:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6730ms or 134 ticks behind
-[02:13:39] [Server thread/INFO]: Villager cyx['Villager'/123060, l='ServerLevel[Survival_Nov2025]', x=338.13, y=66.40, z=-322.70] died, message: 'Villager was squished too much'
-[02:13:40] [Server thread/INFO]: Villager cyx['Villager'/123065, l='ServerLevel[Survival_Nov2025]', x=338.14, y=66.52, z=-322.19] died, message: 'Villager was squished too much'
-[02:14:04] [Server thread/INFO]: Villager cyx['Villager'/123084, l='ServerLevel[Survival_Nov2025]', x=338.18, y=66.64, z=-322.13] died, message: 'Villager was squished too much'
-[02:16:25] [Server thread/INFO]: Villager cyx['Villager'/123075, l='ServerLevel[Survival_Nov2025]', x=338.70, y=66.30, z=-322.19] died, message: 'Villager was squished too much'
-[02:16:37] [Server thread/INFO]: Villager cyx['Villager'/123054, l='ServerLevel[Survival_Nov2025]', x=338.11, y=66.40, z=-322.11] died, message: 'Villager was squished too much'
-[02:21:43] [Server thread/INFO]: Villager cyx['Villager'/123079, l='ServerLevel[Survival_Nov2025]', x=338.32, y=66.40, z=-322.19] died, message: 'Villager was squished too much'
-[02:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
-[02:34:34] [Server thread/INFO]: Villager cyx['Villager'/123080, l='ServerLevel[Survival_Nov2025]', x=338.12, y=66.37, z=-322.12] died, message: 'Villager was squished too much'
-[02:36:51] [Server thread/INFO]: Villager cyx['Villager'/123057, l='ServerLevel[Survival_Nov2025]', x=338.20, y=66.38, z=-322.11] died, message: 'Villager was squished too much'
-[02:40:51] [Server thread/WARN]: BennyBoi04 moved too quickly! 3.3814818253882777,-1.8422556836702881,-17.760628230091697
-[02:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[02:41:42] [Server thread/WARN]: BennyBoi04 moved too quickly! -0.15066416486968137,-11.781884081282527,0.05882525452716436
-[02:41:57] [Server thread/INFO]: Charlie527 lost connection: Disconnected
-[02:41:57] [Server thread/INFO]: Charlie527 left the game
-[02:42:50] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:42:50] [Server thread/INFO]: <--[HERE]
-[02:42:54] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:42:54] [Server thread/INFO]: setidletimout<--[HERE]
-[02:42:56] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:42:56] [Server thread/INFO]: setidletimout 0<--[HERE]
-[02:43:20] [Server thread/INFO]: The player idle timeout is now disabled
-[02:45:56] [User Authenticator #3/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
-[02:45:56] [Server thread/INFO]: Charlie527[/173.28.182.147:63655] logged in with entity id 165076 at (62.496103809040754, 105.0, -85.12041480351444)
-[02:45:56] [Server thread/INFO]: Charlie527 joined the game
-[02:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 87332ms or 1746 ticks behind
-[02:47:44] [Server thread/INFO]: BennyBoi04 lost connection: Timed out
-[02:47:44] [Server thread/INFO]: BennyBoi04 left the game
-[02:47:45] [Server thread/INFO]: Charlie527 lost connection: Timed out
-[02:47:45] [Server thread/INFO]: Charlie527 left the game
-[02:47:54] [User Authenticator #4/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
-[02:47:54] [Server thread/INFO]: Charlie527[/173.28.182.147:63719] logged in with entity id 166436 at (66.78298093019625, 106.0, -84.73208986196312)
-[02:47:54] [Server thread/INFO]: Charlie527 joined the game
-[02:48:08] [User Authenticator #5/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
-[02:48:08] [Server thread/INFO]: BennyBoi04[/127.0.0.1:55649] logged in with entity id 167691 at (699.6999999880791, 192.0, -1866.300000011921)
-[02:48:08] [Server thread/INFO]: BennyBoi04 joined the game
-[02:49:45] [Server thread/INFO]: Stopping the server
-[02:49:45] [Server thread/INFO]: Stopping server
-[02:49:45] [Server thread/INFO]: Saving players
-[02:49:45] [Server thread/INFO]: Charlie527 lost connection: Server closed
-[02:49:45] [Server thread/INFO]: Charlie527 left the game
-[02:49:45] [Server thread/INFO]: Saving worlds
-[02:49:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
-[02:49:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
-[02:49:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
-[02:49:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
-[02:49:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:49:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:49:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:35:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:35:48] [ServerMain/INFO]: Loaded 1461 recipes
+[21:35:48] [ServerMain/INFO]: Loaded 1574 advancements
+[21:35:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[21:35:48] [Server thread/INFO]: Loading properties
+[21:35:48] [Server thread/INFO]: Default game type: SURVIVAL
+[21:35:48] [Server thread/INFO]: Generating keypair
+[21:35:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:35:48] [Server thread/INFO]: Using default channel type
+[21:35:48] [Server thread/INFO]: Preparing level "Survival_Nov2025"
+[21:35:48] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:35:49] [Server thread/INFO]: Preparing spawn area: 100%
+[21:35:49] [Server thread/INFO]: Time elapsed: 66 ms
+[21:35:49] [Server thread/INFO]: Done (0.513s)! For help, type "help"
+[21:36:03] [User Authenticator #1/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[21:36:04] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51100] logged in with entity id 4 at (1992.2827808282702, 119.09875526188812, -474.2532985227229)
+[21:36:04] [Server thread/INFO]: BennyBoi04 joined the game
+[21:36:43] [User Authenticator #2/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
+[21:36:44] [Server thread/INFO]: Charlie527[/173.28.182.147:60358] logged in with entity id 743 at (71.88312423985764, 106.0, -84.52133476083517)
+[21:36:44] [Server thread/INFO]: Charlie527 joined the game
+[21:39:09] [Server thread/INFO]: /176.65.134.6:61179 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[21:39:16] [Server thread/INFO]: /176.65.134.12:61798 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[22:07:30] [Server thread/INFO]: BennyBoi04 has made the advancement [Tactical Fishing]
+[22:58:29] [Server thread/INFO]: Charlie527 lost connection: Disconnected
+[22:58:29] [Server thread/INFO]: Charlie527 left the game
+[22:58:31] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[22:58:31] [Server thread/INFO]: BennyBoi04 left the game
+[22:58:34] [Server thread/INFO]: Stopping the server
+[22:58:34] [Server thread/INFO]: Stopping server
+[22:58:34] [Server thread/INFO]: Saving players
+[22:58:34] [Server thread/INFO]: Saving worlds
+[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
+[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
+[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
+[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
+[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
