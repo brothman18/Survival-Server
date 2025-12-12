@@ -1,38 +1,308 @@
-[21:35:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[21:35:48] [ServerMain/INFO]: Loaded 1461 recipes
-[21:35:48] [ServerMain/INFO]: Loaded 1574 advancements
-[21:35:48] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[21:35:48] [Server thread/INFO]: Loading properties
-[21:35:48] [Server thread/INFO]: Default game type: SURVIVAL
-[21:35:48] [Server thread/INFO]: Generating keypair
-[21:35:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:35:48] [Server thread/INFO]: Using default channel type
-[21:35:48] [Server thread/INFO]: Preparing level "Survival_Nov2025"
-[21:35:48] [Server thread/INFO]: Loading 0 persistent chunks...
-[21:35:49] [Server thread/INFO]: Preparing spawn area: 100%
-[21:35:49] [Server thread/INFO]: Time elapsed: 66 ms
-[21:35:49] [Server thread/INFO]: Done (0.513s)! For help, type "help"
-[21:36:03] [User Authenticator #1/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
-[21:36:04] [Server thread/INFO]: BennyBoi04[/127.0.0.1:51100] logged in with entity id 4 at (1992.2827808282702, 119.09875526188812, -474.2532985227229)
-[21:36:04] [Server thread/INFO]: BennyBoi04 joined the game
-[21:36:43] [User Authenticator #2/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
-[21:36:44] [Server thread/INFO]: Charlie527[/173.28.182.147:60358] logged in with entity id 743 at (71.88312423985764, 106.0, -84.52133476083517)
-[21:36:44] [Server thread/INFO]: Charlie527 joined the game
-[21:39:09] [Server thread/INFO]: /176.65.134.6:61179 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
-[21:39:16] [Server thread/INFO]: /176.65.134.12:61798 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
-[22:07:30] [Server thread/INFO]: BennyBoi04 has made the advancement [Tactical Fishing]
-[22:58:29] [Server thread/INFO]: Charlie527 lost connection: Disconnected
-[22:58:29] [Server thread/INFO]: Charlie527 left the game
-[22:58:31] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
-[22:58:31] [Server thread/INFO]: BennyBoi04 left the game
-[22:58:34] [Server thread/INFO]: Stopping the server
-[22:58:34] [Server thread/INFO]: Stopping server
-[22:58:34] [Server thread/INFO]: Saving players
-[22:58:34] [Server thread/INFO]: Saving worlds
-[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
-[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
-[22:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
-[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
-[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:14] [Server thread/INFO]: BennyBoi04 experienced kinetic energy
+[00:00:48] [Server thread/INFO]: <BennyBoi04> 1300 63 -300
+[00:00:59] [Server thread/INFO]: <BennyBoi04> 1300 63 -3000
+[00:01:34] [Server thread/INFO]: <BennyBoi04> GO TO 50 -37 -7000
+[00:02:30] [Server thread/INFO]: Villager dcx['Villager'/192858, l='ServerLevel[Survival_Nov2025]', x=338.11, y=66.49, z=-322.10] died, message: 'Villager was squished too much'
+[00:07:45] [Server thread/INFO]: <BennyBoi04> 1300 64 -3000
+[00:08:35] [Server thread/INFO]: <BennyBoi04> 50 -37 -7000
+[00:09:29] [Server thread/WARN]: Charlie527 moved too quickly! -8.056965158479102,-2.8977842147219235,-17.626028364688864
+[00:09:29] [Server thread/WARN]: BennyBoi04 moved too quickly! -5.9818205815154215,-1.8474285566769595,-17.120630826702836
+[00:09:39] [Server thread/WARN]: Charlie527 moved too quickly! -7.648474746374177,-2.8977841714744557,-16.732383727625347
+[00:10:23] [Server thread/WARN]: Charlie527 moved too quickly! -16.327144181667563,-2.5864499273263277,-9.86083643726306
+[00:10:23] [Server thread/WARN]: BennyBoi04 moved too quickly! -6.635580896249451,-1.834406542152692,-17.197186185130704
+[00:11:12] [Server thread/WARN]: Charlie527 moved too quickly! -0.29611311843203225,-2.126552076780314,-17.768197098529527
+[00:16:47] [Server thread/INFO]: Charlie527 was slain by Zombie
+[00:43:56] [Server thread/INFO]: Villager dcx['Villager'/263514, l='ServerLevel[Survival_Nov2025]', x=338.10, y=66.57, z=-322.14] died, message: 'Villager was squished too much'
+[00:47:27] [Server thread/INFO]: Charlie527 lost connection: Disconnected
+[00:47:27] [Server thread/INFO]: Charlie527 left the game
+[00:50:28] [User Authenticator #5/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
+[00:50:29] [Server thread/INFO]: Charlie527[/173.28.182.147:53300] logged in with entity id 269661 at (368.29073433473275, 69.0, -339.5314584430178)
+[00:50:29] [Server thread/INFO]: Charlie527 joined the game
+[01:04:09] [Server thread/INFO]: Charlie527 lost connection: Disconnected
+[01:04:09] [Server thread/INFO]: Charlie527 left the game
+[01:06:10] [User Authenticator #6/ERROR]: Got an error with a html body connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-2da9878c1dc2e0b6fc1120b28cb8f8ddec311049&username=Charlie527: <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <style type='text/css'>
+        body {
+            font-family: Arial;
+            margin-left: 40px;
+        }
+
+        img {
+            border: 0 none;
+        }
+
+        #content {
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        #message h1 {
+            font-size: 24px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
+
+        #message h2 {
+            font-size: 20px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
+
+        #message p {
+            font-size: 16px;
+            color: #000000;
+            margin: 8px 0px 0px 0px
+        }
+
+        #message hr {
+            margin: 15px 0px
+        }
+
+        #errorref {
+            font-size: 11px;
+            color: #737373;
+            margin-top: 41px
+        }
+    </style>
+    <title>Service unavailable</title>
+</head>
+
+<body>
+    <div id='content'>
+        <div id='message'>
+            <h2>The request is blocked.</h2>
+        </div>
+        <div id='errorref'>
+            <span>20251212T060609Z-1654ff75797l26tbhC1MIAnzyw0000001c0000000000rf42            </span>
+        </div>
+    </div>
+</body>
+</html>
+
+[01:06:10] [User Authenticator #6/INFO]: Disconnecting Charlie527 (/173.28.182.147:53715): Failed to verify username!
+[01:06:10] [User Authenticator #6/ERROR]: Username 'Charlie527' tried to join with an invalid session
+[01:06:10] [Server thread/INFO]: Charlie527 (/173.28.182.147:53715) lost connection: Failed to verify username!
+[01:06:14] [User Authenticator #7/ERROR]: Got an error with a html body connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-309c9c78584e0f52117469a07a0a0fd7ef2619ee&username=Charlie527: <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <style type='text/css'>
+        body {
+            font-family: Arial;
+            margin-left: 40px;
+        }
+
+        img {
+            border: 0 none;
+        }
+
+        #content {
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        #message h1 {
+            font-size: 24px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
+
+        #message h2 {
+            font-size: 20px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
+
+        #message p {
+            font-size: 16px;
+            color: #000000;
+            margin: 8px 0px 0px 0px
+        }
+
+        #message hr {
+            margin: 15px 0px
+        }
+
+        #errorref {
+            font-size: 11px;
+            color: #737373;
+            margin-top: 41px
+        }
+    </style>
+    <title>Service unavailable</title>
+</head>
+
+<body>
+    <div id='content'>
+        <div id='message'>
+            <h2>The request is blocked.</h2>
+        </div>
+        <div id='errorref'>
+            <span>20251212T060613Z-1654ff75797l26tbhC1MIAnzyw0000001bz000000000vb7c            </span>
+        </div>
+    </div>
+</body>
+</html>
+
+[01:06:14] [User Authenticator #7/INFO]: Disconnecting Charlie527 (/173.28.182.147:53723): Failed to verify username!
+[01:06:14] [User Authenticator #7/ERROR]: Username 'Charlie527' tried to join with an invalid session
+[01:06:14] [Server thread/INFO]: Charlie527 (/173.28.182.147:53723) lost connection: Failed to verify username!
+[01:07:11] [User Authenticator #8/INFO]: UUID of player Charlie527 is 47b47893-fe2f-42d0-a4ed-daf26e41a056
+[01:07:11] [Server thread/INFO]: Charlie527[/173.28.182.147:53891] logged in with entity id 287530 at (60.84093746873371, 105.0, -83.98178138497292)
+[01:07:11] [Server thread/INFO]: Charlie527 joined the game
+[01:23:38] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[01:23:39] [Server thread/INFO]: BennyBoi04 left the game
+[01:26:09] [User Authenticator #9/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[01:26:10] [Server thread/INFO]: BennyBoi04[/127.0.0.1:55826] logged in with entity id 294693 at (3.300000011920929, 78.0, 40.6708168409424)
+[01:26:10] [Server thread/INFO]: BennyBoi04 joined the game
+[01:30:53] [Netty NIO IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aan.a(SourceFile:50)
+	at aan.encode(SourceFile:14)
+	at xj.a(SourceFile:26)
+	at xj.encode(SourceFile:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at wu$2.write(SourceFile:488)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at wu.c(SourceFile:324)
+	at wu.b(SourceFile:316)
+	at wu.a(SourceFile:298)
+	at wu.a(SourceFile:292)
+	at wu.exceptionCaught(SourceFile:143)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:127)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:179)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysPlain(NioIoHandler.java:541)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:514)
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5977ms or 119 ticks behind
+[01:32:10] [Server thread/WARN]: BennyBoi04 moved too quickly! -1.7468681034550286,-3.5368770043836975,17.343808811068357
+[01:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[01:33:41] [Server thread/WARN]: Charlie527 moved too quickly! 2.4297913757004608,3.5351005130104625,-17.52926872232547
+[01:33:41] [Server thread/WARN]: BennyBoi04 moved too quickly! -8.48668465033613,-1.9740062655684483,15.41578976881803
+[02:09:48] [Netty NIO IO #15/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aan.a(SourceFile:50)
+	at aan.encode(SourceFile:14)
+	at xj.a(SourceFile:26)
+	at xj.encode(SourceFile:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at wu$2.write(SourceFile:488)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at wu.c(SourceFile:324)
+	at wu.b(SourceFile:316)
+	at wu.a(SourceFile:298)
+	at wu.a(SourceFile:292)
+	at wu.exceptionCaught(SourceFile:143)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:127)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:179)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysPlain(NioIoHandler.java:541)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:514)
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[02:22:14] [Server thread/INFO]: Charlie527 has completed the challenge [Hot Tourist Destinations]
+[02:22:35] [Server thread/INFO]: Charlie527 was slain by Piglin Brute
+[02:23:45] [Server thread/INFO]: <BennyBoi04> -691 42 -650
+[02:24:45] [Server thread/INFO]: BennyBoi04 has completed the challenge [Hot Tourist Destinations]
+[02:26:13] [Server thread/INFO]: BennyBoi04 was slain by Piglin Brute
+[02:27:51] [Server thread/WARN]: Charlie527 moved too quickly! -14.394368569074231,-4.197150703031326,-9.747805223669047
+[02:35:05] [Server thread/INFO]: Charlie527 has made the advancement [Those Were the Days]
+[02:35:08] [Server thread/INFO]: BennyBoi04 has made the advancement [Those Were the Days]
+[02:45:00] [Server thread/INFO]: BennyBoi04 has made the advancement [War Pigs]
+[02:45:04] [Server thread/INFO]: Charlie527 has made the advancement [War Pigs]
+[02:45:13] [Server thread/INFO]: Charlie527 has made the advancement [Who is Cutting Onions?]
+[02:57:08] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[02:57:08] [Server thread/INFO]: BennyBoi04 left the game
+[02:57:49] [User Authenticator #10/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[02:57:49] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56659] logged in with entity id 361644 at (-748.2804968142947, 31.026518537491953, -631.256582415682)
+[02:57:49] [Server thread/INFO]: BennyBoi04 joined the game
+[02:57:50] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[02:57:50] [Server thread/INFO]: BennyBoi04 left the game
+[02:58:35] [User Authenticator #11/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[02:58:35] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56669] logged in with entity id 361705 at (-748.2804968142947, 30.447813773025743, -631.256582415682)
+[02:58:35] [Server thread/INFO]: BennyBoi04 joined the game
+[02:58:36] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[02:58:36] [Server thread/INFO]: BennyBoi04 left the game
+[02:59:03] [User Authenticator #12/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[02:59:03] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56677] logged in with entity id 361743 at (-748.2804968142947, 30.0, -631.256582415682)
+[02:59:03] [Server thread/INFO]: BennyBoi04 joined the game
+[03:08:38] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[03:08:38] [Server thread/INFO]: BennyBoi04 left the game
+[03:09:12] [User Authenticator #13/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[03:09:12] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56746] logged in with entity id 368726 at (29.728241622930394, 31.129592560281193, 99.27511167375043)
+[03:09:12] [Server thread/INFO]: BennyBoi04 joined the game
+[03:09:14] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[03:09:14] [Server thread/INFO]: BennyBoi04 left the game
+[03:10:58] [User Authenticator #14/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[03:10:58] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56773] logged in with entity id 369095 at (29.728241622930394, 30.28089019922095, 99.27511167375043)
+[03:10:58] [Server thread/INFO]: BennyBoi04 joined the game
+[03:10:59] [Server thread/INFO]: BennyBoi04 tried to swim in lava
+[03:16:39] [Server thread/INFO]: BennyBoi04 was doomed to fall
+[03:18:43] [Server thread/INFO]: BennyBoi04 was slain by Enderman
+[03:33:24] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[03:33:24] [Server thread/INFO]: BennyBoi04 left the game
+[03:37:48] [User Authenticator #15/INFO]: UUID of player BennyBoi04 is c694c82f-8aa5-447f-9761-f9ad9dcb0c55
+[03:37:48] [Server thread/INFO]: BennyBoi04[/127.0.0.1:56974] logged in with entity id 387118 at (85.7247796153359, 106.0, -77.57732187727139)
+[03:37:48] [Server thread/INFO]: BennyBoi04 joined the game
+[03:40:39] [Server thread/INFO]: BennyBoi04 lost connection: Disconnected
+[03:40:39] [Server thread/INFO]: BennyBoi04 left the game
+[03:42:03] [Server thread/INFO]: Charlie527 lost connection: Disconnected
+[03:42:03] [Server thread/INFO]: Charlie527 left the game
+[03:42:39] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[03:42:39] [Server thread/INFO]: astop<--[HERE]
+[03:42:41] [Server thread/INFO]: Stopping the server
+[03:42:41] [Server thread/INFO]: Stopping server
+[03:42:41] [Server thread/INFO]: Saving players
+[03:42:41] [Server thread/INFO]: Saving worlds
+[03:42:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:overworld
+[03:42:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_end
+[03:42:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_Nov2025]'/minecraft:the_nether
+[03:42:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival_Nov2025): All chunks are saved
+[03:42:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

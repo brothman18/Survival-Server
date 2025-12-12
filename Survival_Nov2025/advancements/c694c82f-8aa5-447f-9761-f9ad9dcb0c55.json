@@ -7,31 +7,44 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-12-11 22:04:25 -0500",
       "minecraft:snowy_slopes": "2025-12-08 21:49:25 -0500",
+      "minecraft:old_growth_pine_taiga": "2025-12-11 21:50:26 -0500",
       "minecraft:forest": "2025-11-23 02:43:17 -0500",
       "minecraft:taiga": "2025-12-06 05:55:10 -0500",
+      "minecraft:deep_ocean": "2025-12-11 21:45:58 -0500",
+      "minecraft:deep_cold_ocean": "2025-12-12 00:09:58 -0500",
       "minecraft:ice_spikes": "2025-11-22 02:49:16 -0500",
+      "minecraft:frozen_ocean": "2025-12-11 22:21:59 -0500",
       "minecraft:frozen_river": "2025-11-09 20:49:21 -0500",
       "minecraft:ocean": "2025-12-03 23:13:52 -0500",
       "minecraft:jungle": "2025-12-08 21:29:54 -0500",
       "minecraft:sunflower_plains": "2025-12-03 22:31:30 -0500",
+      "minecraft:cherry_grove": "2025-12-11 21:40:54 -0500",
       "minecraft:birch_forest": "2025-12-08 21:41:23 -0500",
       "minecraft:windswept_hills": "2025-11-23 02:38:13 -0500",
+      "minecraft:snowy_beach": "2025-12-11 22:10:45 -0500",
       "minecraft:bamboo_jungle": "2025-12-08 21:37:08 -0500",
+      "minecraft:windswept_savanna": "2025-12-11 21:55:37 -0500",
       "minecraft:flower_forest": "2025-12-03 22:33:37 -0500",
       "minecraft:beach": "2025-12-03 22:52:16 -0500",
       "minecraft:stony_peaks": "2025-12-08 21:50:29 -0500",
+      "minecraft:dark_forest": "2025-12-11 22:24:25 -0500",
       "minecraft:sparse_jungle": "2025-12-08 21:37:51 -0500",
       "minecraft:river": "2025-11-09 20:49:52 -0500",
       "minecraft:lukewarm_ocean": "2025-12-08 21:37:44 -0500",
       "minecraft:snowy_plains": "2025-11-09 20:47:34 -0500",
       "minecraft:stony_shore": "2025-12-08 21:37:46 -0500",
       "minecraft:dripstone_caves": "2025-11-09 20:45:29 -0500",
+      "minecraft:snowy_taiga": "2025-12-11 21:38:58 -0500",
       "minecraft:frozen_peaks": "2025-12-08 21:49:26 -0500",
       "minecraft:old_growth_birch_forest": "2025-12-08 21:40:42 -0500",
       "minecraft:grove": "2025-12-08 21:49:38 -0500",
+      "minecraft:swamp": "2025-12-11 21:55:49 -0500",
+      "minecraft:meadow": "2025-12-11 22:02:22 -0500",
       "minecraft:windswept_gravelly_hills": "2025-11-09 20:21:42 -0500",
-      "minecraft:plains": "2025-11-09 20:49:30 -0500"
+      "minecraft:plains": "2025-11-09 20:49:30 -0500",
+      "minecraft:jagged_peaks": "2025-12-11 22:02:47 -0500"
     },
     "done": false
   },
@@ -555,11 +568,14 @@
       "minecraft:hoglin": "2025-12-01 23:24:04 -0500",
       "minecraft:shulker": "2025-12-07 22:44:13 -0500",
       "minecraft:cave_spider": "2025-11-14 21:09:56 -0500",
+      "minecraft:piglin": "2025-12-12 02:42:48 -0500",
       "minecraft:enderman": "2025-11-19 21:24:53 -0500",
       "minecraft:silverfish": "2025-12-03 23:23:42 -0500",
+      "minecraft:stray": "2025-12-11 20:58:25 -0500",
       "minecraft:magma_cube": "2025-12-02 00:01:10 -0500",
       "minecraft:endermite": "2025-12-08 20:35:57 -0500",
       "minecraft:spider": "2025-11-14 21:03:29 -0500",
+      "minecraft:piglin_brute": "2025-12-12 02:43:08 -0500",
       "minecraft:zombie": "2025-11-14 21:03:00 -0500",
       "minecraft:creeper": "2025-11-14 21:34:54 -0500",
       "minecraft:drowned": "2025-11-23 00:20:49 -0500",
@@ -2525,9 +2541,10 @@
       "minecraft:crimson_forest": "2025-12-01 23:23:54 -0500",
       "minecraft:nether_wastes": "2025-12-01 23:11:45 -0500",
       "minecraft:soul_sand_valley": "2025-12-01 23:05:21 -0500",
-      "minecraft:basalt_deltas": "2025-11-22 19:54:22 -0500"
+      "minecraft:basalt_deltas": "2025-11-22 19:54:22 -0500",
+      "minecraft:warped_forest": "2025-12-12 02:24:45 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -3753,27 +3770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-12-08 21:40:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-12-08 21:40:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-12-08 21:41:03 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-08 22:24:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-12-08 22:13:06 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-08 22:24:31 -0500"
     },
     "done": true
   },
@@ -3789,21 +3800,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-12-08 22:24:31 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-12-08 21:41:03 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
-      "has_log": "2025-12-08 21:40:46 -0500"
+      "has_planks": "2025-12-08 21:41:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-12-08 21:41:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-08 21:41:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-08 21:41:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-08 21:41:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-12-08 22:07:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-12-08 22:13:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-12-08 22:13:06 -0500"
     },
     "done": true
   },
@@ -3813,15 +3860,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_shulker_box": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-08 22:14:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-08 22:24:31 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "minecraft:recipes/decorations/cyan_shulker_box": {
     "criteria": {
-      "has_planks": "2025-12-08 21:41:03 -0500"
+      "has_shulker_box": "2025-12-08 22:24:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-08 22:24:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-12-08 22:24:31 -0500"
     },
     "done": true
   },
@@ -3837,12 +3902,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-12-08 21:41:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-08 22:24:31 -0500"
@@ -3852,12 +3911,6 @@
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-08 22:24:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-12-08 21:41:03 -0500"
     },
     "done": true
   },
@@ -3885,21 +3938,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-12-08 21:40:46 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-08 22:24:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-12-08 22:13:06 -0500"
     },
     "done": true
   },
@@ -3909,21 +3950,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "tropical_fish_bucket": "2025-12-08 22:07:30 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-12-08 22:24:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-12-08 21:41:03 -0500"
     },
     "done": true
   },
@@ -3933,17 +3962,401 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/combat/golden_spear": {
     "criteria": {
-      "has_planks": "2025-12-08 21:41:03 -0500"
+      "has_gold_ingot": "2025-12-11 20:55:53 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_coal_ore": "2025-12-08 22:14:16 -0500"
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
     },
     "done": true
   },
-  "DataVersion": 4556
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-12-11 20:59:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-11 20:59:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-11 20:59:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-12-11 21:00:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-12-11 21:00:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-12-11 21:00:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-12-11 21:00:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-12-11 21:10:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-12-11 21:10:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-12-11 21:16:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-12-11 21:16:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-12-11 21:34:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-12-11 21:44:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-12-11 22:03:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-12-11 22:06:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-11 22:08:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-12-11 22:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-11 22:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-12-11 22:12:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_stick": "2025-12-12 00:15:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-12 02:35:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-12-12 02:44:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-12-12 02:44:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-12-12 02:44:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-12 02:44:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-12-12 02:45:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-12 02:45:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-12-12 02:46:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-12-12 02:54:01 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4671
 }
