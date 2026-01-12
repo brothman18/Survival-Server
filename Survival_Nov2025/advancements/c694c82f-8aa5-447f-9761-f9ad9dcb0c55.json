@@ -39,6 +39,7 @@
       "minecraft:snowy_taiga": "2025-12-11 21:38:58 -0500",
       "minecraft:frozen_peaks": "2025-12-08 21:49:26 -0500",
       "minecraft:old_growth_birch_forest": "2025-12-08 21:40:42 -0500",
+      "minecraft:deep_dark": "2026-01-10 18:32:12 -0500",
       "minecraft:grove": "2025-12-08 21:49:38 -0500",
       "minecraft:swamp": "2025-12-11 21:55:49 -0500",
       "minecraft:meadow": "2025-12-11 22:02:22 -0500",
@@ -4358,6 +4359,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-01-05 22:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-01-05 22:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-01-05 22:46:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-05 23:28:26 -0500"
@@ -4367,12 +4386,6 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-05 23:28:26 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2026-01-05 22:46:19 -0500"
     },
     "done": true
   },
@@ -4391,24 +4404,6 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-05 23:28:26 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2026-01-05 22:46:19 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2026-01-05 22:46:19 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2026-01-05 23:31:15 -0500"
     },
     "done": true
   },
@@ -4454,15 +4449,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2026-01-05 23:37:17 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-05 23:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-01-05 23:31:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2026-01-05 23:37:17 -0500"
     },
     "done": true
   },
@@ -4475,6 +4476,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2026-01-05 23:37:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-01-11 02:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-01-11 02:11:40 -0500"
     },
     "done": true
   },
